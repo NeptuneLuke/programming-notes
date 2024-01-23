@@ -1,3 +1,3 @@
-# C/C++ How to and Cheatsheet
+# C/C++ 
 
-## Resources used: <br> [cplusplus.com](https://cplusplus.com/reference) <br> [cppreference.com](https://en.cppreference.com/) <br> [isocpp.org](https://isocpp.org/) <br> [learncpp.com](https://learncpp.com/)
+## Resources used: [cplusplus.com](https://cplusplus.com/reference) <br> [cppreference.com](https://en.cppreference.com/) <br> [isocpp.org](https://isocpp.org/) <br> [learncpp.com](https://learncpp.com/)
