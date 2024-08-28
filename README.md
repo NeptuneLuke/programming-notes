@@ -6,4 +6,4 @@
 
 # Design patterns 
 
-## Resources used: <br> [dofactory.com](https://dofactory.com/net/design-patterns) <br> Gang of Four Design Patterns
+## Resources used: <br> [dofactory.com](https://dofactory.com/net/design-patterns) <br> Gang of Four Design Patterns (book)
